@@ -1,0 +1,31 @@
+{
+  "short_name": "Restaurant App",
+  "name": "Restaurant App",
+  "icons": [
+    {
+      "src": "/icons/app-icon-64.png",
+      "sizes": "16x16 24x24 32x32 64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/app-icon-144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/icons/app-icon-256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "/icons/app-icon-256.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#000000"
+}
